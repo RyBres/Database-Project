@@ -1,2 +1,2 @@
 # Database-Project
- Repository for the semester-long class project for Rutgers' Databases course.
+ Repository for the term project for Rutgers' Databases course.
