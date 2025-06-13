@@ -83,8 +83,8 @@ Error handling is built-in—invalid inputs fail gracefully without crashing the
 ## 🚀 Getting Started
 
 ### 🧱 Prerequisites
-- MySQL Server (or use Docker)
-- Python 3.x
+- MySQL Server
+- Python 3.11
 - Python package: `mysql-connector-python`
 
 ### 🛠 Setup
@@ -106,5 +106,7 @@ Error handling is built-in—invalid inputs fail gracefully without crashing the
 4. **Run the CLI**
     
     Run cli.py on the command line or your favorite IDE (I found that Spyder is a good option for this).
+
+---
 
 Issues or Suggestions? Feel free to open an issue or pull request.
