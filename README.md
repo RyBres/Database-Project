@@ -8,8 +8,8 @@ A fully functional database-backed shopping system built for the fictional compa
 
 ## 📦 Project Structure
 
-Database-Project/
 ```
+Database-Project/
 ├── cli/
 │   └── cli.py                      # Python command-line 
 interface for interacting with the database
