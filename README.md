@@ -10,16 +10,17 @@ A fully functional database-backed shopping system built for the fictional compa
 
 Database-Project/
 ├── cli/
-│ └── cli.py # Python command-line interface for interacting with the database
+│   └── cli.py                      # Python command-line interface for interacting with the database
 ├── scripts/
-│ ├── statistics.sql # Sample statistical queries
-│ └── testing.sql # Scripts to test logic and triggers
+│   ├── statistics.sql              # Sample statistical queries
+│   └── testing.sql                 # Scripts to test logic and triggers
 ├── schema/
-│ ├── create_db.sql # Schema creation, triggers, and sample data generation
-│ ├── eer-diagram.drawio # EER diagram (editable)
-│ ├── eer-diagram-db-project.jpg # EER diagram (visual reference)
-│ └── Overview and User Guide.docx# Project overview and CLI instructions
+│   ├── create_db.sql               # Schema creation, triggers, and sample data generation
+│   ├── eer-diagram.drawio          # EER diagram (editable)
+│   ├── eer-diagram-db-project.jpg # EER diagram (visual reference)
+│   └── Overview and User Guide.docx # Project overview and CLI instructions
 └── README.md
+
 
 
 ---
@@ -94,15 +95,17 @@ Error handling is built-in—invalid inputs fail gracefully without crashing the
    ```
 
 2. **Create the Database**
+    
     Run the create_db.sql script from the schema folder.
 
 3. **Download CLI Requirements**
+    
     Ensure you have MySQL connector for Python installed.
 
 4. **Run the CLI**
+    
     Run cli.py on the command line or your favorite IDE (I found that Spyder is a good option for this).
 
-Feel free to add to this as you please.
-
 🐛 Issues or Suggestions?
+
 Feel free to open an issue or pull request.
