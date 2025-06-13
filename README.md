@@ -1,6 +1,6 @@
 # 🛒 Newark IT Shopping System (MySQL + Python CLI)
 
-![EER Diagram](schema/eer-diagram-db-project.jpg)
+![EER Diagram](schema/eer-diagram-db-project.png)
 
 A fully functional database-backed shopping system built for the fictional company **Newark IT**, featuring a normalized MySQL database with triggers, sample data, and a Python command-line interface (CLI). This project was created as part of a database systems course and includes components for schema creation, data interaction, and business logic testing.
 
