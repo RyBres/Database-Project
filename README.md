@@ -11,15 +11,16 @@ A fully functional database-backed shopping system built for the fictional compa
 ```
 Database-Project/
 ├── cli/
-│   └── cli.py                       # Python command-line interface for interacting with the database
+│   └── cli.py                          # Python command-line interface for interacting with the database
 ├── scripts/
-│   ├── statistics.sql               # Sample statistical queries
-│   └── testing.sql                  # Scripts to test logic and triggers
+│   ├── statistics.sql                  # Sample statistical queries
+│   └── testing.sql                     # Scripts to test logic and triggers
 ├── schema/
-│   ├── create_db.sql                # Schema creation, triggers, and sample data generation
-│   ├── eer-diagram.drawio           # EER diagram (editable)
-│   ├── eer-diagram-db-project.jpg   # EER diagram (visual reference)
-│   └── Overview and User Guide.docx # Project overview and CLI instructions
+│   ├── create_db.sql                   # Schema creation, triggers, and sample data generation
+│   ├── eer-diagram.drawio              # EER diagram (editable)
+│   ├── eer-diagram-db-project.png      # EER diagram (visual reference)
+│   ├── db-project-normalization.xlsx   # Document that was used for normalization process (to 3NF)
+│   └── Overview and User Guide.docx    # Project overview and CLI instructions
 └── README.md
 ```
 
