@@ -85,8 +85,8 @@ Error handling is built-in—invalid inputs fail gracefully without crashing the
 ## 🚀 Getting Started
 
 ### 🧱 Prerequisites
-- MySQL Server (or use Docker)
-- Python 3.x
+- MySQL Server
+- Python 3.11
 - Python package: `mysql-connector-python`
 
 ### 🛠 Setup
