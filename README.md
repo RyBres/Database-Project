@@ -109,4 +109,6 @@ Error handling is built-in—invalid inputs fail gracefully without crashing the
     
     Run cli.py on the command line or your favorite IDE (I found that Spyder is a good option for this).
 
+---
+
 Issues or Suggestions? Feel free to open an issue or pull request.
